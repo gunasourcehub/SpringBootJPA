@@ -1,0 +1,7 @@
+com\liudonghua\demo\model\UserPartial.class
+com\liudonghua\demo\service\UserService.class
+com\liudonghua\demo\repository\UserRepository.class
+com\liudonghua\demo\controller\UserController.class
+com\liudonghua\demo\model\UserCount.class
+com\liudonghua\demo\model\User.class
+com\liudonghua\demo\JpaApplication.class
